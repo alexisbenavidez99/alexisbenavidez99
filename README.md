@@ -26,8 +26,9 @@
 <li> 💞️ I'm looking to create/learn new things!</li> 
 </ul>   
                                                                                                                   
-                                                                                                                 
-### :hammer_and_wrench: Languages and Tools :
+<h2>                                                                                                                
+🛠️ Languages and Tools :
+</h2>                                                                                                                   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -38,8 +39,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>                                                                                                                                  
 
-
-### 🔥 My Stats:
-
+<h2>
+🔥 My Stats:
+</h2>
+![My Stats](https://github-readme-stats.vercel.app/api?username=alexisbenavidez992&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexisbenavidez99&theme=tokyonight)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisbenavidez99&layout=compact&theme=vision-friendly-dark)
