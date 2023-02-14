@@ -38,3 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>                                                                                                                                  
+
+---
+🔥 My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexisbenavidez99&theme=tokyonight)](https://git.io/streak-stats)
