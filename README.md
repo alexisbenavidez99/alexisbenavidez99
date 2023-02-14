@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   Hi there 👋🏻
 </h1>    
 <div id="header" display="block" align="center">
