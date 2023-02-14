@@ -1,3 +1,6 @@
+<h1 align="center">
+  Hi there 👋🏻
+</h1>    
 <div id="header" display="block" align="center">
   <img src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif" width="300px"/>
 </div>
@@ -12,6 +15,4 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=alexisbenavidez99&style=flat-square&color=blue" alt="Profile Counter"/>
 </div>                                                                                                                     
-<h1 align="center">
-  Hi there 👋🏻
-</h1>                                                                                                                  
+                                                                                                              
