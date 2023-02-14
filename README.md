@@ -15,10 +15,26 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=alexisbenavidez99&style=flat-square&color=blue" alt="Profile Counter"/>
 </div>
+<h2>
+📖 About Me: 
+</h2> 
                                                                                                                    
 <ul>
   <li>👋 Hi, I’m Alexis Benavidez</li>
 <li> 👀 I’m interested in furthering my skills in web developement</li>
 <li> 🌱 I’m currently learning back-end developing</li>
 <li> 💞️ I'm looking to create/learn new things!</li> 
-</ul>                                                                                                              
+</ul>   
+                                                                                                                   
+---
+                                                                                                                 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>                                                                                                                                  
