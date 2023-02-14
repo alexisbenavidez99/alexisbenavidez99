@@ -25,8 +25,7 @@
 <li> 🌱 I’m currently learning back-end developing</li>
 <li> 💞️ I'm looking to create/learn new things!</li> 
 </ul>   
-                                                                                                                   
----
+                                                                                                                  
                                                                                                                  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -39,7 +38,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>                                                                                                                                  
 
----
+
 ### 🔥 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexisbenavidez99&theme=tokyonight)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisbenavidez99&layout=compact&theme=vision-friendly-dark)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexisbenavidez99&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisbenavidez99&layout=compact&theme=vision-friendly-dark)
