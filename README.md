@@ -44,5 +44,6 @@
 ### 🔥 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexisbenavidez99&theme=tokyonight)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisbenavidez99&layout=compact&theme=vision-friendly-dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexisbenavidez99&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisbenavidez99&layout=compact&theme=vision-friendly-dark)
+
