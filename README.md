@@ -1,7 +1,7 @@
 <h1>
   Hi there 👋🏻
 </h1>    
-<div id="header" align="right">
+<div id="header" display="block" align="right">
   <img src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif" width="300px"/>
 </div>
 <div id="buttons" align="right">
@@ -14,7 +14,12 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=alexisbenavidez99&style=flat-square&color=blue" alt="Profile Counter"/>
-</div>                                                                                                                     
+</div>
+                                                                                                                   
+<h2>
+About Me                                                                                                                  
+</h2>
+                                                                                                                   
 <ul>
   <li>👋 Hi, I’m Alexis Benavidez</li>
 <li> 👀 I’m interested in furthering my skills in web developement</li>
